@@ -1,0 +1,1 @@
+Using different properties for text changing
